@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7541e083","path":"/docs/machine_learning/xgboost.html","title":"xgboost","lang":"en-US","frontmatter":{"title":"xgboost","date":"2024/3/20","categories":["机器学习"],"tags":["机器学习"]},"headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"docs/machine_learning/xgboost.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-21168d7c","path":"/blogs/AIxitong/qianzhanxing.html","title":"大模型新视野","lang":"en-US","frontmatter":{"title":"大模型新视野","date":"2024/1/13","categories":["AI系统"],"tags":["AI系统"]},"headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"blogs/AI系统/前瞻性.md"}');export{t as data};
