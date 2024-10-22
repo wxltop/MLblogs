@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-99eef408","path":"/docs/recsys/xgboost.html","title":"xgboost","lang":"en-US","frontmatter":{"title":"xgboost","date":"2024/4/11","categories":["推荐系统"],"tags":["推荐系统"]},"headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"docs/recsys/xgboost.md"}');export{t as data};

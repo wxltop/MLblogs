@@ -1,0 +1,1 @@
+import{_ as n,o,c as a,a as e}from"./app-aa9cafec.js";const t={},c=e("p",null,"api key：",-1),s=e("p",null,[e("code",null,"sk-e520cafc342b4aa5a438d0c8f7d816a4")],-1),_=[c,s];function l(d,i){return o(),a("div",null,_)}const u=n(t,[["render",l],["__file","dongshouxueAgentyingyongkaifa.html.vue"]]);export{u as default};

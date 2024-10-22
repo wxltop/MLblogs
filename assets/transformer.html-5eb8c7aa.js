@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3fcff61e","path":"/docs/qiuzhao/transformer.html","title":"transformer","lang":"en-US","frontmatter":{"title":"transformer","date":"2024/8/25","categories":["transformer"],"tags":["transformer"]},"headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"docs/qiuzhao/transformer.md"}');export{t as data};
