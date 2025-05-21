@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./app-BDqUqqS1.js";const o={};function c(r,s){return a(),e("div")}const i=t(o,[["render",c]]),l=JSON.parse('{"path":"/docs/qiuzhao/LLM.html","title":"LLM","lang":"en-US","frontmatter":{"title":"LLM","date":"2024/8/25","categories":["大模型"],"tags":["大模型"]},"headers":[],"git":{},"filePathRelative":"docs/qiuzhao/LLM.md"}');export{i as comp,l as data};
